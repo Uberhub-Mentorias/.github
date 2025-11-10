@@ -6,15 +6,9 @@
     <p class="site-description">{{ site.description }}</p>
     {% endif %}
 
-    <!-- Button: prefer `site.github_url`, then `site.github.repository_url` (GitHub Pages metadata), then a fallback literal -->
+    <!-- Button: uses site.github_url defined in _config.yml -->
     <p>
-      <a
-        class="btn btn-outline"
-        href="{{ 'https://github.com/Uberhub-Mentorias/' }}"
-        target="_blank"
-        rel="noopener">
-        View on GitHub
-      </a>
+      <a class="btn btn-outline" href="{{ site.github_url }}" target="_blank" rel="noopener">View on GitHub</a>
     </p>
   </div>
 </header>
