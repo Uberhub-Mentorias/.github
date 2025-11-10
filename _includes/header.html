@@ -1,0 +1,20 @@
+<!-- Custom header override to control the "View on GitHub" button URL -->
+<header class="site-header">
+  <div class="container">
+    <h1 class="site-title">{{ site.title }}</h1>
+    {% if site.description %}
+    <p class="site-description">{{ site.description }}</p>
+    {% endif %}
+
+    <!-- Button: prefer `site.github_url`, then `site.github.repository_url` (GitHub Pages metadata), then a fallback literal -->
+    <p>
+      <a
+        class="btn btn-outline"
+        href="{{ site.github_url | default: site.github.repository_url | default: 'https://github.com/Uberhub-Mentorias/' }}"
+        target="_blank"
+        rel="noopener">
+        View on GitHub
+      </a>
+    </p>
+  </div>
+</header>
