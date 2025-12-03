@@ -10,6 +10,15 @@
 
 **Instituição:** IFTM - Campus Uberlândia Centro 
 
+---
+
+## 📊 Estatísticas
+![GitHub Org's stars](https://img.shields.io/github/stars/ACME?style=social)
+![GitHub Org's followers](https://img.shields.io/github/followers/ACME?style=social)
+![GitHub Org's contributors](https://img.shields.io/github/contributors/ACME)
+
+---
+
 ## 1. Visão Geral e Objetivos
 O projeto UberHub Mentorias visa criar uma plataforma móvel para conectar profissionais experientes (Mentores) a pessoas que buscam orientação e desenvolvimento em áreas específicas (Mentorados), dentro do ecossistema do UberHub. O aplicativo gerencia cadastros, vouchers, matchmaking inteligente, agendamentos e avaliações mútuas, fortalecendo o ecossistema de inovação e aprendizado colaborativo do IFTM e da comunidade UberHub.
 
