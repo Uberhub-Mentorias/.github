@@ -1,21 +1,18 @@
 # 📱Projeto de Curricularização da Extensão
 
-**Disciplina:** Projeto Aplicação para Dispositivos Móveis 
 
-**Professor:** Edson Angoti 
+**Disciplina:** Projeto Projeto Back end Microsserviços e NoSQL / Projeto Aplicação para Dispositivos Móveis 
+
+**Professores:** 
+| [![Angoti](https://github.com/angoti.png?size=150)](https://github.com/angoti) | [![Montanheiro](https://github.com/Montanheiro.png?size=150)](https://github.com/Montanheiro) |
+|---------------------------------------------|---------------------------------------------------|
+| **Prof. Edson Angoti** | **Prof. Lucas Montanheiro**  |
 
 **Período:** 4º 
 
 **Curso:** Sistemas para Internet 
 
 **Instituição:** IFTM - Campus Uberlândia Centro 
-
----
-
-## 📊 Estatísticas
-![GitHub Org's stars](https://img.shields.io/github/stars/ACME?style=social)
-![GitHub Org's followers](https://img.shields.io/github/followers/ACME?style=social)
-![GitHub Org's contributors](https://img.shields.io/github/contributors/ACME)
 
 ---
 
