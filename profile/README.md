@@ -4,9 +4,9 @@
 **Disciplina:** Projeto Projeto Back end Microsserviços e NoSQL / Projeto Aplicação para Dispositivos Móveis 
 
 **Professores:** 
-| [![Angoti](https://github.com/angoti.png?size=150)](https://github.com/angoti) | [![Montanheiro](https://github.com/Montanheiro.png?size=150)](https://github.com/Montanheiro) |
+| [![Montanheiro](https://github.com/Montanheiro.png?size=150)](https://github.com/Montanheiro) | [![Angoti](https://github.com/angoti.png?size=150)](https://github.com/angoti)  |
 |---------------------------------------------|---------------------------------------------------|
-| **Prof. Edson Angoti** | **Prof. Lucas Montanheiro**  |
+| **Prof. Lucas Montanheiro** | **Prof. Edson Angoti**  |
 
 **Período:** 4º 
 
