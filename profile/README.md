@@ -1,18 +1,45 @@
 # 📱Projeto de Curricularização da Extensão
 
-
-**Disciplina:** Projeto Projeto Back end Microsserviços e NoSQL / Projeto Aplicação para Dispositivos Móveis 
-
-**Professores:** 
-| [![Montanheiro](https://github.com/Montanheiro.png?size=150)](https://github.com/Montanheiro) | [![Angoti](https://github.com/angoti.png?size=150)](https://github.com/angoti)  |
-|---------------------------------------------|---------------------------------------------------|
-| **Prof. Lucas Montanheiro** | **Prof. Edson Angoti**  |
-
-**Período:** 4º 
-
-**Curso:** Sistemas para Internet 
-
-**Instituição:** IFTM - Campus Uberlândia Centro 
+<table cellspacing="10" cellpadding="5" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td><strong>Disciplinas:</strong></td>
+    <td>
+      Projeto Projeto Back end Microsserviços e NoSQL<br>
+      Projeto Aplicação para Dispositivos Móveis
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Professores:</strong></td>
+    <td>
+      <div style="display: flex; gap: 40px; align-items: center;">
+        <div style="text-align: center;">
+          <a href="https://github.com/Montanheiro">
+            <img src="https://github.com/Montanheiro.png?size=150" width="120" style="border-radius: 50%;" alt="Prof. Lucas Montanheiro">
+          </a><br>
+          <strong>Prof. Lucas Montanheiro</strong>
+        </div>
+        <div style="text-align: center;">
+          <a href="https://github.com/angoti">
+            <img src="https://github.com/angoti.png?size=150" width="120" style="border-radius: 50%;" alt="Prof. Edson Angoti">
+          </a><br>
+          <strong>Prof. Edson Angoti</strong>
+        </div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Período:</strong></td>
+    <td>4º</td>
+  </tr>
+  <tr>
+    <td><strong>Curso:</strong></td>
+    <td>Sistemas para Internet</td>
+  </tr>
+  <tr>
+    <td><strong>Instituição:</strong></td>
+    <td>IFTM - Campus Uberlândia Centro</td>
+  </tr>
+</table>
 
 ---
 
